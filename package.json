@@ -1,25 +1,19 @@
 {
-  "name": "apiteste",
+  "name": "node-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node-Template",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jordaoqualho/ApiTeste.git"
+    "url": "git+https://github.com/jordaoqualho/Node-Template.git"
   },
-  "author": "Jordão QS",
+  "author": "Jordão Qualho",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jordaoqualho/ApiTeste/issues"
+    "url": "https://github.com/jordaoqualho/Node-Template/issues"
   },
-  "homepage": "https://github.com/jordaoqualho/ApiTeste#readme",
-  "dependencies": {
-    "dotenv": "^14.2.0",
-    "express": "^4.17.2",
-    "mongoose": "^6.1.7",
-    "nodemon": "^2.0.15"
-  }
+  "homepage": "https://github.com/jordaoqualho/Node-Template#readme"
 }
